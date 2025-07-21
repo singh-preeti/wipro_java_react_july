@@ -1,0 +1,6 @@
+GitHub Version control system 
+steps for pushing file to GitHub repository
+	git init
+ 	git add.
+	git commit -m "message"
+ 	git push -u "url" master
