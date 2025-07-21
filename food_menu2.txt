@@ -4,3 +4,7 @@ pizza
 
 paneer Tikka
 chicken tikka
+Paneer Butter Masala
+Chicken 65
+Mushroom Starter
+
